@@ -12,6 +12,8 @@
 	<string>\s*(before|before_each|after|describe|it)</string>
 	<key>foldingStopMarker</key>
 	<string>\s*end$</string>
+	<key>keyEquivalent</key>
+	<string>^~J</string>
 	<key>name</key>
 	<string>JSpec</string>
 	<key>patterns</key>
